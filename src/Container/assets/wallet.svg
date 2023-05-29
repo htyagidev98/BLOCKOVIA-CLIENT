@@ -1,0 +1,17 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="48" cy="48" r="32.5" stroke="#415566" stroke-dasharray="2 2"/>
+<circle cx="48" cy="48" r="23.5" stroke="#1B2B38"/>
+<path d="M21 33H69V39H75V49H79V64H75V75H21V33Z" fill="#111B24"/>
+<path d="M21 33H69V39H75V49H79V64H75V75H21V33Z" fill="#00EAC7" fill-opacity="0.06"/>
+<path d="M21 33H69V39H75V49H79V64H75V75H21V33Z" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M80 49.5H55.5V63.5H80" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M69 39.5L26 39.5" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<circle cx="62.5" cy="56.5" r="3" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M65.5 39V39.5H46.5V39C46.5 33.7533 50.7533 29.5 56 29.5C61.2467 29.5 65.5 33.7533 65.5 39Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M61.5 39C61.5 35.9624 59.0376 33.5 56 33.5C52.9624 33.5 50.5 35.9624 50.5 39" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="39.5" cy="17.5" r="9" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="39.5" cy="17.5" r="6" stroke="white" stroke-linejoin="bevel"/>
+<path d="M83.5 16.5V12.5H79.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M81.5 18.5V14.5H77.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M15 78L18 81L15 84L12 81L15 78Z" fill="#1B2B38"/>
+</svg>

@@ -1,0 +1,52 @@
+.blockchian_data_button {
+  text-align: end;
+
+  color: #00eac7;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.blockchian_data_button:hover {
+  color: #a7ece1;
+}
+
+.blockchain_wrapper .img_content img {
+  height: 200px;
+  width: 300px;
+  transition: 0.3s ease-in-out;
+}
+.blockchain_img_content:hover .img_contentimg {
+	transform: scale(1.1);
+}
+
+.blockchain_img_content {
+    display: flex;
+    align-items: center;
+    border: 1px solid #1b2b38;
+    background: radial-gradient(#182733,#14202a);
+}
+
+.blockchian_data_button {
+  text-align: end;
+}
+
+.data_content {
+  border-left: 2px solid #00eac7;
+  padding-left: 10px;
+  height: fit-content;
+  margin-left: 15px;
+}
+
+.block_chain_span_text_color {
+  color: #c1d1dd;
+  font-size: 19px;
+  letter-spacing: 2px;
+}
+.strong_text {
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.blockchain_button{
+    display: block;
+}

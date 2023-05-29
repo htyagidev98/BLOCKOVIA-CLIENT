@@ -1,0 +1,28 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="48" cy="48" r="32.5" stroke="#415566" stroke-dasharray="2 2"/>
+<circle cx="48" cy="48" r="23.5" stroke="#1B2B38"/>
+<path d="M61 15H31L21 25V71H61V15Z" fill="#111B24"/>
+<path d="M61 15H31L21 25V71H61V15Z" fill="#00EAC7" fill-opacity="0.06"/>
+<path d="M61 15H31L21 25V71H61V15Z" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M65 19H35L25 29V75H65V19Z" fill="#111B24"/>
+<path d="M65 19H35L25 29V75H65V19Z" fill="#00EAC7" fill-opacity="0.06"/>
+<path d="M65 19H35L25 29V75H65V19Z" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M35 19V29H25" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M32 41.5H54" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M32 46.5H56" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M32 51.5H54" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M32 56.5H50" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M32 36.5H58" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M48.5 81.5H50.5V78.5H53.5V66.5H48.5V64.5L64 58.5L79.5 64.5V66.5H74.5V78.5H77.5V81.5H79.5V85.5H48.5V81.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M53.5 66.5H74.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M53.5 78.5H74.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M50.5 81.5H77.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M57.5 78.5V66.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M60.5 78.5V66.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M67.5 78.5V66.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M70.5 78.5V66.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M82.5 13.5L78 17L73.5 13.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M82.5 16.5L78 20L73.5 16.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M18 81C18 81.7956 17.6839 82.5587 17.1213 83.1213C16.5587 83.6839 15.7956 84 15 84C14.2044 84 13.4413 83.6839 12.8787 83.1213C12.3161 82.5587 12 81.7956 12 81L15 81H18Z" fill="#1B2B38"/>
+<path d="M12 78C12 77.2043 12.3161 76.4413 12.8787 75.8787C13.4413 75.3161 14.2044 75 15 75C15.7956 75 16.5587 75.3161 17.1213 75.8787C17.6839 76.4413 18 77.2044 18 78L15 78L12 78Z" fill="#1B2B38"/>
+</svg>

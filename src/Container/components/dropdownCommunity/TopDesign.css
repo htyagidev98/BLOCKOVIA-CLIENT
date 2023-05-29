@@ -1,0 +1,48 @@
+.topdesign {
+    background: #0f1820;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+span.topdesign__left {
+    width: 25%;
+    background: #111b24;
+    height: 100%;
+    display: block;
+    position: absolute;
+    left:0;
+    top:0;
+}
+
+span.topdesign__right {
+    width: 25%;
+    background: #111b24;
+    height: 100%;
+    display: block;
+    position: absolute;
+    right:0;
+    top:0;
+}
+
+span.topdesign__left:after {
+    position: absolute;
+    left: 100%;
+    border: 20px solid #111b24;
+    content: "";
+    height: 20px;
+    border-right: 20px solid transparent !important;
+    border-top: 20px solid transparent !important;
+}
+
+.topdesign__right:after{
+    position: absolute;
+    right: 100%;
+    border: 20px solid #111b24;
+    content: "";
+    height: 20px;
+    border-left: 20px solid transparent !important;
+    border-top: 20px solid transparent !important;
+}

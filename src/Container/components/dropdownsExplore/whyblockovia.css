@@ -1,0 +1,312 @@
+.header_content{
+    background-color: #14202A;
+    color: #fff;
+  }
+  .mini1200container{
+    max-width: 1200px !important;
+  }
+  .footer_content{
+    background-color: #14202A;
+    color: #fff;
+  }
+  
+  .affix {
+    top: 20px;
+    color: #8896a1;
+  
+  }
+  
+  .scroll_spy
+  {
+    /* position: fixed;
+    display: inline-block;
+    color: #aaa;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.230, 1.000, 0.320, 1.000); */
+    
+    width: 15em;
+    position: fixed;
+    top: 2rem;
+      left: 2rem;  
+    padding-left: 0;
+      background-color: rgb(0 0 0 / 0);
+      display: inline-block;
+      text-decoration: none;
+        line-height: 2rem;
+        padding: 0 1rem;
+        transition: all 0.3s cubic-bezier(0.230, 1.000, 0.320, 1.000);
+  
+  
+  }
+  
+  #section1 {
+    /* color: #fff; */
+    background-color: #111c26;
+    position: relative;
+    color: #8896a1;
+  
+   
+      box-sizing: border-box;  
+  
+  }
+  
+  #section2 {
+    /* color: #fff; */
+    background-color: #111c26;
+    color: #8896a1;
+      margin: 35px 0px;
+     
+  }
+  
+  #section3 {
+    /* color: #fff; */
+    background-color: #111c26;
+    color: #8896a1;
+      margin: 35px 0px;
+   
+  }
+  
+  
+  
+  #section4 {
+    color: #fff;
+    background-color: #111c26;
+    color: #8896a1;
+      margin: 35px 0px;
+     
+  }
+  
+  @media screen and (max-width: 810px) {
+  
+    #section1,
+    #section2,
+    #section3,
+    #section41,
+    #section42 {
+      margin-left: 150px;
+      background-color: #111c26;
+    }
+  
+  }
+  
+  /* header */
+  .staking_image_section img{
+    height: 352px !important;
+  }
+  
+  .staking_data_section h1{
+    letter-spacing: 2px;
+  }
+  
+  .staking_data_section .line_style{
+    display: block;
+    height: 2px;
+    width: 66px;
+    background-color: #00eac7;
+    margin: 15px 0px;
+  }
+  
+  .staking_data_section .scalable_span{
+    font-size: 35px;
+    letter-spacing: 3px;
+    color: aliceblue;
+  }
+  
+  .staking_first_section_button{
+    /* background-color: #0d2016;
+    padding: 10px 36px;
+    border-radius: 17px;
+    color:  #98eb98;
+    transition: all 0.3s linear;
+    margin-top: 14px; */
+    background-color: #00eac7;
+    color: black;
+    padding: 8px 22px;
+    border-radius: 17px;
+    transition: all 0.3s linear;
+    margin: 15px 0px ;
+    cursor: pointer;
+  }
+  
+  .staking_first_section_button:hover{
+    opacity: 0.6;
+    /* background-color: #98eb98; */
+  }
+  .staking_section{
+    color: white;
+  }
+  
+  .line_style_span_staking_section{
+    width: 35px;
+    height: 3px;
+    background-color:#98eb98;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .span_line{
+    display: flex;
+    justify-content: end;  
+  }
+  
+  .details_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);;
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+  }
+  
+  .common_line{
+    border-left: 2px solid #00eac7;
+  }
+  .wallet_wrapper .top_data_heading{
+    margin-left: 14px;
+    
+  }
+  .wallet_wrapper .wallet_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 10px;
+  
+  }
+  
+  .wallet_data_button{
+    text-align: end;
+    margin-top: 35px;
+    color: #00eac7;
+    cursor: pointer;
+    transition: all 0.3s linear;
+  }
+  
+  .wallet_data_button:hover{
+    color: #a7ece1;
+  }
+  .details_section_button{
+    background-color: #0d2016;
+    padding: 10px 36px;
+    border-radius: 17px;
+    color:  #98eb98;
+    transition: all 0.3s linear;
+    margin-top: 14px;
+  }
+  .blue-bg-sec{
+    background-color: #111b24;
+  }
+  .staking_para{
+    text-transform: uppercase;
+    color: #bccbd6;
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+  .staking_data_section h3, .staking_data_section .scalable_span {
+      font-size: 40px;
+  }
+  
+  .custom-scroll-spy li a {
+      color: #bccbd6;
+      padding: 10px 0;
+      display: inline-block;
+  }
+  .green-transparent{
+    background-color: #0f3034;
+    color: #00ccab;
+    padding: 12px 25px;
+    border-radius: 50px;
+  }
+  .wallet_data_staking{
+    margin: 30px 0;
+  }
+  .wallet_data_staking .top_data h4 {
+      font-size: 20px;
+  }
+  .green-color{
+    color: #00eac7;
+  }
+  .stake-list ul{
+    padding-left: 0px;
+    margin-bottom: 0px;
+  }
+  .stake-list ul li{
+    display: flex;
+    align-items: center;
+    width:100%;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  .stake-list ul li label{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .bottom-line {
+      border-bottom: 1px solid #1b2b38;
+      display: inline-block;
+      width: 50%;
+  }
+  .green-btn{
+    background-color: #00ccab;
+    padding: 10px 25px;
+    border-radius: 50px;
+    color: #111b24;
+  }
+  .green-btn:hover{
+    box-shadow: 0 0 12px rgba(127,244,227,.6);
+  }
+  .stake-card-section h6{
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .stake-card{
+    border:1px solid #1b2b38;
+    padding:15px 20px;
+    position: relative;
+    overflow:hidden;
+  }
+  .stake-card:hover{
+    background-color: #14202a;
+  }
+  .stake-card .poisition-btn .green-btn-efect{
+    top: 20px;
+    right: -54px;
+  }
+  .stake-card:hover .poisition-btn .green-btn-efect{
+    right: 0px;
+  }
+  .stake-card::before {
+      content: "";
+      display: inline-block;
+      width: 1px;
+      height: 25px;
+      background-color: #00ccab;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+  .stake-list.large-label label{
+    font-size: 20px;
+  }
+  .stake-list.large-label .bottom-line{
+    width: 55%;
+  }
+  .green_dot{
+    background-color: #00eac7;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    display: inline-block;
+  }
+  .white_dot{
+    background-color: #fff;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    display: inline-block;
+  }
+  .transparent-btn{
+    background-color: #0f3034;
+    color: #00ccab;
+    padding: 10px 25px;
+    border-radius: 50px;
+  }

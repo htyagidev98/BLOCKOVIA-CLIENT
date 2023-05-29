@@ -1,0 +1,23 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="96" cy="96" r="65" stroke="#415566" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="96" cy="96" r="47" stroke="#1B2B38" stroke-width="2"/>
+<path d="M150 142.857C150 152.325 125.823 160 96 160C66.1766 160 42 152.325 42 142.857V126H150V142.857Z" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="127" rx="54" ry="17" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="127" rx="44" ry="11" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M150 102.857C150 112.325 125.823 120 96 120C66.1766 120 42 112.325 42 102.857V86H150V102.857Z" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="87" rx="54" ry="17" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="87" rx="44" ry="11" fill="#111B24" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M150 64.8571C150 74.3249 125.823 82 96 82C66.1766 82 42 74.3249 42 64.8571V48H150V64.8571Z" fill="#111B24"/>
+<path d="M150 64.8571C150 74.3249 125.823 82 96 82C66.1766 82 42 74.3249 42 64.8571V48H150V64.8571Z" fill="#00EAC7" fill-opacity="0.06"/>
+<path d="M150 64.8571C150 74.3249 125.823 82 96 82C66.1766 82 42 74.3249 42 64.8571V48H150V64.8571Z" stroke="#00EAC7" stroke-width="4" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="49" rx="54" ry="17" fill="#111B24"/>
+<ellipse cx="96" cy="49" rx="54" ry="17" fill="#00EAC7" fill-opacity="0.06"/>
+<ellipse cx="96" cy="49" rx="54" ry="17" stroke="#00EAC7" stroke-width="4" stroke-linejoin="bevel"/>
+<ellipse cx="96" cy="49" rx="44" ry="11" fill="#111B24"/>
+<ellipse cx="96" cy="49" rx="44" ry="11" fill="#00EAC7" fill-opacity="0.06"/>
+<ellipse cx="96" cy="49" rx="44" ry="11" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M150 158V166H162V158" stroke="#1B2B38" stroke-width="2" stroke-linecap="square"/>
+<path d="M156 160V152H168V160" stroke="#1B2B38" stroke-width="2" stroke-linecap="square"/>
+<path d="M44 24L26 24" stroke="#1B2B38" stroke-width="2" stroke-linecap="square"/>
+<path d="M44 30L26 30" stroke="#1B2B38" stroke-width="2" stroke-linecap="square"/>
+</svg>

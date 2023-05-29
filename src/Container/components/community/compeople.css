@@ -1,0 +1,31 @@
+.people_right_data .people_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 18px;
+    
+
+}
+
+.people_right_data .people_line{
+   display: block;
+   width: 35px;
+   height: 2px;
+   background-color: #00eac7;  
+   margin-top: 9px;    
+
+}
+
+.people_right_data .people_left_button{
+    background-color: #1d4841;
+    color: #00eac7;
+    padding: 8px 22px;
+    border-radius: 17px;
+    transition: all 0.3s linear;
+    margin: 15px 0px ;
+    cursor: pointer;
+    
+}
+
+
+
+

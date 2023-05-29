@@ -1,0 +1,20 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M73.5 16.5H77.5V12.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M83.5 18.5H79.5V22.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M15.5 78L12.6468 80.0729L13.7366 83.4271H17.2634L18.3532 80.0729L15.5 78Z" fill="#1B2B38"/>
+<circle cx="48" cy="48" r="32.5" stroke="#3C5061" stroke-linejoin="bevel" stroke-dasharray="2 2"/>
+<circle cx="48" cy="48" r="23.5" stroke="#1B2B38" stroke-linejoin="bevel"/>
+<path d="M33 55L63 41" stroke="#00FFD9" stroke-dasharray="3 3"/>
+<path d="M63 55L33 41" stroke="#00FFD9" stroke-dasharray="3 3"/>
+<path d="M48 66L48 30" stroke="#00FFD9" stroke-dasharray="3 3"/>
+<circle cx="48" cy="48" r="11" fill="#111B24"/>
+<circle cx="48" cy="48" r="11" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="48" cy="48" r="11" stroke="#00FFD9" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M43.5 48L46.5 51L53 44" stroke="#00FFD9" stroke-linejoin="bevel"/>
+<path d="M23.5 26.5L31.5 31V40L23.5 44.5L15.5 40V31L23.5 26.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M72.5 26.5L80.5 31V40L72.5 44.5L64.5 40V31L72.5 26.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M48 10.5L56 15V24L48 28.5L40 24V15L48 10.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M48 67.5L56 72V81L48 85.5L40 81V72L48 67.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M23.5 51.5L31.5 56V65L23.5 69.5L15.5 65V56L23.5 51.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M72.5 51.5L80.5 56V65L72.5 69.5L64.5 65V56L72.5 51.5Z" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+</svg>

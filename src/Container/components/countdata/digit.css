@@ -1,0 +1,15 @@
+.digit_para {
+    color: #bccbd6;
+}
+
+.digit_line{
+    width: 65px;
+    height: 2px;
+    display: inline-block;
+    background-color: #00eac7;
+    margin-bottom: 10px;
+}
+.digit-head h3{
+    font-weight: 600;
+    font-family: 'Gilroy-Bold', sans-serif;
+}

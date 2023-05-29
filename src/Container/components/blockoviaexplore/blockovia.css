@@ -1,0 +1,128 @@
+/* .wallet_scale_wrapper{
+   
+} */
+.wallet_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);;
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+}
+
+.wallet_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+}
+
+
+
+ .common_line{
+    border-left: 2px solid #00eac7;
+}
+
+
+.wallet_wrapper .top_data_heading{
+    margin-left: 14px;
+    
+}
+
+
+.wallet_wrapper .wallet_data .wallet_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 14px;
+
+}
+.wallet_wrapper .scale_data .wallet_para{
+    font-size: 14px;
+}
+.wallet_data_button{
+    text-align: end;
+    margin-top: 35px;
+    color: #00eac7;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.wallet_data_button:hover{
+    color: #a7ece1;
+}
+
+.scale_data_heading{
+    margin-left: 14px;
+}
+
+.hover_effect{
+    transition: all 0.3s linear;
+}
+
+.hover_common{
+    transition: all 0.3s linear;
+
+}
+
+.hover_common:hover .hover_effect{
+    transform: translateY(6px);
+}
+.icon-img-sec{
+    margin-bottom: 20px;
+}
+.top-img img {
+	height: 120px;
+	width: 100%;
+	object-fit: cover;
+}
+.intro-sec p{
+    color: #bccbd6;
+    font-size: 18px;
+  }
+  .intro-card {
+      border: 1px solid #1b2b38;
+      border-bottom: 2px solid #00eac7;
+      border-radius: 4px;
+      background: #111b24;
+      color: #bccbd6;
+      padding: 20px 20px 70px;
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 25px;
+  }
+  .intro-card:hover{
+    background-color: #14202a;
+  }
+  .intro-content h5 {
+      color: #fff;
+  }
+  
+  .intro-icon img{
+    max-width: 100px;
+  }
+  .intro-content{
+    margin-top: 20px;
+    transition: 0.2s ease-in-out;
+  }
+  .poisition-btn .green-btn-efect {
+      background-color: #0e4445;
+      box-shadow: 0 0 12px rgba(0,204,171,.2);
+      color: #00ccab;
+      border: 0;
+      padding: 10px 30px;
+      border-radius: 30px;
+  }
+  .poisition-btn .green-btn-efect {
+      background-color: #0e4445;
+      box-shadow: 0 0 12px rgba(0,204,171,.2);
+      color: #00ccab;
+      border: 0;
+      padding: 10px 30px 10px 20px;
+      border-radius: 30px 0px 0px 30px;
+      position: absolute;
+      right: -74px;
+      transition: 0.5s ease-in-out;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .intro-card:hover .poisition-btn .green-btn-efect{
+      right: -20px;
+  }

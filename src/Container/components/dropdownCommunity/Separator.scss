@@ -1,0 +1,26 @@
+.separator {
+    color: #1b2b38;
+    text-align: center;
+    margin: 60px auto;
+    position: relative;
+}
+
+.separator svg{
+    margin: auto;
+    width: 45px;
+    height: 45px;
+    background: #111b24;
+    position: relative;
+    z-index: 99;
+    padding: 0 10px;
+}
+.separator:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    height: 1px;
+    background: #1b2b38;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}

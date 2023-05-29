@@ -1,0 +1,28 @@
+
+.header_top_data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 0px;
+    background-color: #fff;
+}
+.header_learn_style{
+    margin-left: 15px;
+    border-left: 2px solid #00eac7;;
+    transition: all 0.3s linear;
+    cursor: pointer;
+}
+.header_learn_style:hover{
+    color: #00eac7 !important;
+}
+.logo_image{
+    height: 40px;
+    width: 40px;
+
+}
+.header_top_data p {
+    color: #111b24;
+}
+.header_learn_style a{
+    color: #111b24;
+}

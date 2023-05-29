@@ -1,0 +1,30 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="48" cy="48" r="32.5" stroke="#415566" stroke-dasharray="2 2"/>
+<circle cx="48" cy="48" r="23.5" stroke="#1B2B38"/>
+<path d="M48 48L22.5 64.5M48 48L22.5 64.5" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="48" cy="79" r="8" transform="rotate(-180 48 79)" fill="#111B24"/>
+<circle cx="48" cy="79" r="8" transform="rotate(-180 48 79)" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="48" cy="79" r="8" transform="rotate(-180 48 79)" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M48 71L48 54" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M31.5 31.5L39.8516 39.8516" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="48" cy="48" r="11.5" transform="rotate(-180 48 48)" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="26" cy="26" r="8" transform="rotate(-180 26 26)" fill="#111B24"/>
+<circle cx="26" cy="26" r="8" transform="rotate(-180 26 26)" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="26" cy="26" r="8" transform="rotate(-180 26 26)" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M64.5 31.5L52.5 43.5" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="70" cy="26" r="8" transform="rotate(-180 70 26)" fill="#111B24"/>
+<circle cx="70" cy="26" r="8" transform="rotate(-180 70 26)" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="70" cy="26" r="8" transform="rotate(-180 70 26)" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="73.5" cy="64.5" r="4" transform="rotate(-180 73.5 64.5)" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M48 48L22.5 64.5" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="48" cy="16.5" r="4" transform="rotate(-180 48 16.5)" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="48" cy="48" r="6" transform="rotate(-180 48 48)" fill="#111B24"/>
+<circle cx="48" cy="48" r="6" transform="rotate(-180 48 48)" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="48" cy="48" r="6" transform="rotate(-180 48 48)" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="22.5" cy="64.5" r="4" transform="rotate(-180 22.5 64.5)" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<path d="M57.6571 54.2487L70.2179 62.3763" stroke="white" stroke-linejoin="bevel"/>
+<path d="M74.5 79.5V83.5H80.5V79.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M77.5 80.5V76.5H83.5V80.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M21.5 12.5L12.5 12.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M21.5 15.5L12.5 15.5" stroke="#1B2B38" stroke-linecap="square"/>
+</svg>

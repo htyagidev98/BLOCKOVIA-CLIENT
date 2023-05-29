@@ -1,0 +1,28 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="48" cy="48" r="32.5" stroke="#415566" stroke-dasharray="2 2"/>
+<circle cx="48" cy="48" r="23.5" stroke="#1B2B38"/>
+<circle cx="48" cy="48" r="34" fill="#111B24" stroke="white" stroke-linejoin="bevel"/>
+<ellipse cx="48" cy="48" rx="13" ry="34" stroke="white" stroke-linejoin="bevel"/>
+<path d="M17.5 63H78.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M17.5 33H78.5" stroke="white" stroke-linejoin="bevel"/>
+<path d="M14 48H82" stroke="white" stroke-linejoin="bevel"/>
+<circle cx="36" cy="63" r="4" fill="#111B24"/>
+<circle cx="36" cy="63" r="4" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="36" cy="63" r="4" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="22" cy="48" r="4" fill="#111B24"/>
+<circle cx="22" cy="48" r="4" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="22" cy="48" r="4" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="33" cy="33" r="4" fill="#111B24"/>
+<circle cx="33" cy="33" r="4" fill="#00EAC7" fill-opacity="0.06"/>
+<circle cx="33" cy="33" r="4" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M41 57H87L87 39H41V57Z" fill="#111B24"/>
+<path d="M41 57H87L87 39H41V57Z" fill="#00EAC7" fill-opacity="0.06"/>
+<path d="M41 57H87L87 39H41V57Z" stroke="#00EAC7" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M72.5 43V52.5H73.5L76.5 46.5L79.5 52.5H80.5V43" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M60.5 43V52.5H61.5L64.5 46.5L67.5 52.5H68.5V43" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M48.5 43V52.5H49.5L52.5 46.5L55.5 52.5H56.5V43" stroke="#00EAC7" stroke-linejoin="bevel"/>
+<path d="M22 13.5L17.5 17L13 13.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M22 16.5L17.5 20L13 16.5" stroke="#1B2B38" stroke-linecap="square"/>
+<path d="M84 81C84 81.7956 83.6839 82.5587 83.1213 83.1213C82.5587 83.6839 81.7956 84 81 84C80.2044 84 79.4413 83.6839 78.8787 83.1213C78.3161 82.5587 78 81.7956 78 81L81 81H84Z" fill="#1B2B38"/>
+<path d="M78 78C78 77.2043 78.3161 76.4413 78.8787 75.8787C79.4413 75.3161 80.2044 75 81 75C81.7956 75 82.5587 75.3161 83.1213 75.8787C83.6839 76.4413 84 77.2044 84 78L81 78L78 78Z" fill="#1B2B38"/>
+</svg>

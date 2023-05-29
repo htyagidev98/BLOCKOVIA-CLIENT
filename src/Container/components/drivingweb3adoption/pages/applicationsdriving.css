@@ -1,0 +1,295 @@
+
+.mini1200container{
+    max-width:1000px !important;
+}
+
+.header_content{
+    background-color: #14202A;
+    color: #fff;
+}
+.footer_content{
+    background-color: #14202A;
+    color: #fff;
+}
+.dev_image_section img{
+    height: 352px !important;
+}
+.dev_section{
+    background-color: #14202A;
+    color: #fff;
+}
+.dev_data_section h1{
+    letter-spacing: 2px;
+    
+}
+
+.dev_data_section .line_style{
+    display: block;
+    height: 2px;
+    width: 66px;
+    background-color: #00eac7;
+    margin: 15px 0px;
+}
+
+.dev_data_section .scalable_span{
+    font-size: 35px;
+    letter-spacing: 3px;
+    color: aliceblue;
+}
+
+.dev_para{
+    color: whitesmoke;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+
+.dev_first_section_button{
+    background-color: #0d2016;
+    padding: 10px 36px;
+    /* border-radius: 17px; */
+    color:  #98eb98;
+    transition: all 0.3s linear;
+    margin-top: 14px;
+}
+
+.dev_first_section_button:hover{
+    opacity: 0.6;
+    /* background-color: #98eb98; */
+    
+ 
+}
+
+
+.dev_section{
+    
+    color: white;
+    height: 600px;
+}
+
+.line_style_span_hero_section{
+    width: 35px;
+    height: 3px;
+    background-color:#98eb98;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.span_line{
+    display: flex;
+    justify-content: end;
+    
+    
+}
+
+/* dev---- into blockovia */
+.app_right_data{
+    /* background-color: #111c26; */
+    /* border: 1px solid rgb(58, 56, 56);; */
+    padding: 54px 0px 12px 0px;
+    /* transition: all 0.3s linear; */
+}
+.app_right_data .app_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 18px;
+
+    
+
+}
+
+.app_right_data .app_line{
+   display: block;
+   width: 35px;
+   height: 2px;
+   background-color: #00eac7;  
+   margin-top: 9px;    
+
+}
+
+.app_right_data .app_left_button{
+    /* background-color: #1d4841; */
+    color: #00eac7;
+    padding: 8px 22px;
+    /* border-radius: 17px; */
+    transition: all 0.3s linear;
+    margin: 15px 0px ;
+    cursor: pointer;
+    
+}
+
+
+
+/* blockovia box */
+/* .wallet_scale_wrapper{
+   
+} */
+
+
+
+
+
+.devbox_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+}
+
+.devbox_data .devbox_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 10px;
+
+}
+
+ .common_line{
+    border-left: 2px solid #00eac7;
+}
+
+
+.devbox_wrapper .top_data_heading{
+    margin-left: 14px;
+    
+}
+
+
+.devbox_wrapper .devbox_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 10px;
+
+}
+
+.devbox_data_button{
+    text-align: end;
+    margin-top: 35px;
+    color: #00eac7;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.dev_data_button:hover{
+    color: #a7ece1;
+}
+/* 
+.scale_data_heading{
+    margin-left: 14px;
+} */
+
+.hover_effect{
+    transition: all 0.3s linear;
+}
+
+.hover_common{
+    transition: all 0.3s linear;
+
+}
+
+.hover_common:hover .hover_effect{
+    transform: translateY(6px);
+}
+
+
+
+
+.dev_wrapper{
+    background-color: #14202A;
+    color: #fff;
+}
+
+
+
+.common_line{
+    border-left: 2px solid #00eac7;
+    ;
+}
+.tutorial_dev
+{
+    display: block;
+  /* width: 100px; */
+  /* height: 100px; */
+  padding: 100px;
+  border: 1px solid rgb(58, 56, 56);
+  background-color: #111c26;
+}
+
+/* .tutorial_dev .app_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    /* text-align:start */
+    /* font-size: 10px; */
+
+/* blocks css........................................ */
+/* .wallet_scale_wrapper{
+   
+} */
+
+
+
+.wallet_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);;
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+}
+
+.wallet_data{
+    background-color: #111c26;
+    border: 1px solid rgb(58, 56, 56);
+    padding: 54px 32px 12px 54px;
+    transition: all 0.3s linear;
+}
+
+
+
+ .common_line{
+    border-left: 2px solid #00eac7;
+}
+
+
+.wallet_wrapper .top_data_heading{
+    margin-left: 14px;
+    
+}
+
+
+.wallet_wrapper .wallet_para{
+    color: #8896a1;
+    margin: 35px 0px;
+    font-size: 10px;
+
+}
+
+.wallet_data_button{
+    text-align: end;
+    margin-top: 35px;
+    color: #00eac7;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.wallet_data_button:hover{
+    color: #a7ece1;
+}
+
+.scale_data_heading{
+    margin-left: 14px;
+}
+
+.hover_effect{
+    transition: all 0.3s linear;
+}
+
+.hover_common{
+    transition: all 0.3s linear;
+
+}
+
+.hover_common:hover .hover_effect{
+    transform: translateY(8px);
+}
+.use-cases-page .intro-content h5{
+    min-height: 50px;
+}
+
